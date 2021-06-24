@@ -2,11 +2,12 @@
     display: flex;
     align-items: stretch;
     height: 100vh;
+    background-color: rgb(224, 224, 224);
 
     aside{
         flex: 7;
 
-        background: #835afd;
+        background: linear-gradient(180deg, #2d4ca3, rgb(184, 101, 231));
         color: #fff;
 
         display: flex;
@@ -46,7 +47,7 @@
         width: 100%;
         max-width: 320px;
         align-items: stretch;
-        text-align: center;
+        text-align: center;        
 
         >img{
             align-self: center;            
@@ -85,7 +86,7 @@
             margin-top: 16px;
 
             a{
-                color: #e559f9;
+                color: #9869e4;
             }
         }
 
@@ -118,7 +119,7 @@
 
 .separator{
     font-size: 14px;
-    color: #a8a8b3;
+    color: black;
     margin: 32px 0;
     display: flex;
     align-items: center;
@@ -127,7 +128,7 @@
         content: '';
         flex: 1;
         height: 1px;
-        background: #a8a8b3;
+        background: black;
         margin-right: 16px;
     }
 
@@ -135,7 +136,7 @@
         content: '';
         flex: 1;
         height: 1px;
-        background: #a8a8b3;
+        background: black;
         margin-left: 16px;
     }
 }
