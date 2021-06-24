@@ -1,6 +1,8 @@
 # Letmeask
 
-<p>Aplicação desenvolvida em React e Firebase durando o NLW#6 da Rocketseat.</p>
+<p>Aplicação desenvolvida em React, utilizando banco de dados do Firebase como integração back-end.</p>
+
+<p>Projeto codado duranto o NLW#6 da Rocketseat, com alterações próprias.</p>
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, TypeScript, React.Js, Firebase. </p>
  
