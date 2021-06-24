@@ -17,3 +17,5 @@
 <h2>Licença</h2>
 
 <p>MIT (Massachusetts Institute of Technology)</p>
+
+<img src="letmeask.png">
