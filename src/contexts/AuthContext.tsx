@@ -38,7 +38,7 @@ export function AuthContextProvider(props: AuthContextProviderProps){
       }
     })
 
-    return()=>{
+    return() => {
       unsubscribe();
     }
   }, [])
