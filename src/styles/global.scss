@@ -12,3 +12,9 @@ body{
 body, input, button, textarea{
     font: 400 16px 'Roboto', sans-serif;
 }
+
+@media (max-width:739px){
+  :root{
+  font-size:52.5%;
+}
+}
