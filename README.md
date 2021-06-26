@@ -28,8 +28,7 @@
 
 ## :dart: Sobre ##
 
-Letmeask é uma plataforma de perguntas que pode ser usada para auxiliar criadores de conteúdo, a sanar dúvidas do seu público.
-Este app tambem permite que o usuário o instale em seu celular - Progressive Web App (PWA)
+Letmeask é uma plataforma de perguntas que pode ser usada para auxiliar criadores de conteúdo, durante Lives por exemplo, para sanar dúvidas do público.
 
 ## :sparkles: Funcionalidades ##
 
