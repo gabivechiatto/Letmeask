@@ -6,7 +6,7 @@
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, TypeScript, React.Js, Firebase. </p>
  
-<h2>Como usar?<div align="center" id="top"> 
+## Como usar? ##
  
   <img src="letmeask.png" alt="Letmeask" />
 
@@ -51,9 +51,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## :white_check_mark: Pré requisitos ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados no PC!
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Iniciando ##
 
 ```bash
 # Clone este repositório
