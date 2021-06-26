@@ -7,7 +7,7 @@
 <p>Tecnologias utilizadas: HTML, CSS/SASS, TypeScript, React.Js, Firebase. </p>
  
 <h2>Como usar?<<div align="center" id="top"> 
-  <img src="letmeask" alt="Letmeask" />
+  <img src="letmeask.png" alt="Letmeask" />
 
   &#xa0;
 
@@ -17,13 +17,13 @@
 <h1 align="center">Letmeask - PWA</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/weescoelho/letmeask-nlw?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/gabimesquita/letmeask?color=9869e4">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/weescoelho/letmeask-nlw?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/gabimesquita/letmeask?color=9869e4">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/weescoelho/letmeask-nlw?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/gabimesquita/letmeask?color=9869e4">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/weescoelho/letmeask-nlw?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/gabimesquita/letmeask?color=9869e4">
 
 </p>
 
@@ -70,7 +70,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/weescoelho/letmeask
+$ git clone https://github.com/gabimesquita/letmeask
 
 # Entre na pasta
 $ cd letmeask
