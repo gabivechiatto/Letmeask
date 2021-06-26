@@ -6,13 +6,13 @@
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, TypeScript, React.Js, Firebase. </p>
  
-#<h2>Como usar?<div align="center" id="top"> 
+<h2>Como usar?<div align="center" id="top"> 
  
   <img src="letmeask.png" alt="Letmeask" />
 
   &#xa0;
 
-<a href="https://letmeask-9935e.web.app/">Demo</a>
+
 </div>
 
 <p align="center">
@@ -35,11 +35,11 @@ Este app tambem permite que o usuário o instale em seu celular - Progressive We
 
 :heavy_check_mark: Criar sala de perguntas;\
 :heavy_check_mark: Criar perguntas;\
-:heavy_check_mark: Curtir perguntas;
-:heavy_check_mark: Modo administrador;
-:heavy_check_mark: Apagar perguntas - Modo administrador;
-:heavy_check_mark: Destacar perguntas - Modo administrador;
-:heavy_check_mark: Marcar perguntas como respondida - Modo administrador;
+:heavy_check_mark: Curtir perguntas;\
+:heavy_check_mark: Modo administrador;\
+:heavy_check_mark: Apagar perguntas - Modo administrador;\
+:heavy_check_mark: Destacar perguntas - Modo administrador;\
+:heavy_check_mark: Marcar perguntas como respondida - Modo administrador;\
 :heavy_check_mark: Fechar sala - Modo administrador;
 
 ## :rocket: Tecnologias ##
