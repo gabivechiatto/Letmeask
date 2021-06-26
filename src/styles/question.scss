@@ -6,6 +6,21 @@
 
     & + .question{
         margin-top: 8px;
+    }    
+
+    &.highlighted{
+        background: #e6d7ff;
+        border: 3px solid rgb(184, 101, 231);
+        font-weight: bold;
+
+        footer .user-info span{
+            color: #29292e;
+        }
+    }
+
+    &.answered{
+        background: #d8dcdd;
+        border: none;
     }
 
     p{
@@ -33,6 +48,11 @@
                 color: #737380;                
                 font-size: 14px;
             }
+        }
+
+        >div{
+            display: flex;
+            gap: 16px;
         }
 
         button{
