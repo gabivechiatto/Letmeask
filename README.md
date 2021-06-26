@@ -14,19 +14,6 @@
 <a href="https://letmeask-9935e.web.app/">Demo</a>
 </div>
 
-<h1 align="center">Letmeask - PWA</h1>
-
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/gabimesquita/letmeask?color=9869e4">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/gabimesquita/letmeask?color=9869e4">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/gabimesquita/letmeask?color=9869e4">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/gabimesquita/letmeask?color=9869e4">
-
-</p>
-
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
@@ -34,7 +21,7 @@
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/weescoelho" target="_blank">Autor</a>
+  <a href="https://github.com/gabimesquita" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -46,14 +33,14 @@ Este app tambem permite que o usuário o instale em seu celular - Progressive We
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Criar sala de perguntas;\
-:heavy_check_mark: Criar perguntas;\
-:heavy_check_mark: Curtir perguntas;\
-:heavy_check_mark: Modo administrador;\
-:heavy_check_mark: Apagar perguntas - Modo administrador;\
-:heavy_check_mark: Destacar perguntas - Modo administrador;\
-:heavy_check_mark: Marcar perguntas como respondida - Modo administrador;\
-:heavy_check_mark: Fechar sala - Modo administrador;\
+:heavy_check_mark: Criar sala de perguntas;
+:heavy_check_mark: Criar perguntas;
+:heavy_check_mark: Curtir perguntas;
+:heavy_check_mark: Modo administrador;
+:heavy_check_mark: Apagar perguntas - Modo administrador;
+:heavy_check_mark: Destacar perguntas - Modo administrador;
+:heavy_check_mark: Marcar perguntas como respondida - Modo administrador;
+:heavy_check_mark: Fechar sala - Modo administrador;
 
 ## :rocket: Tecnologias ##
 
