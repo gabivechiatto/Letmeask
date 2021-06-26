@@ -72,7 +72,7 @@ $ yarn start
 
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](license.md) para mais detalhes.
 
 
 
