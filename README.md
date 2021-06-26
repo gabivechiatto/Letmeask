@@ -6,7 +6,7 @@
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, TypeScript, React.Js, Firebase. </p>
  
-<h2>Como usar?<<div align="center" id="top"> 
+<h2>Como usar?<div align="center" id="top"> 
   <img src="letmeask.png" alt="Letmeask" />
 
   &#xa0;
@@ -21,7 +21,6 @@
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gabimesquita" target="_blank">Autor</a>
 </p>
 
 <br>
