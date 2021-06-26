@@ -6,7 +6,8 @@
 
 <p>Tecnologias utilizadas: HTML, CSS/SASS, TypeScript, React.Js, Firebase. </p>
  
-<h2>Como usar?<div align="center" id="top"> 
+#<h2>Como usar?<div align="center" id="top"> 
+ 
   <img src="letmeask.png" alt="Letmeask" />
 
   &#xa0;
@@ -32,8 +33,8 @@ Este app tambem permite que o usuário o instale em seu celular - Progressive We
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Criar sala de perguntas;
-:heavy_check_mark: Criar perguntas;
+:heavy_check_mark: Criar sala de perguntas;\
+:heavy_check_mark: Criar perguntas;\
 :heavy_check_mark: Curtir perguntas;
 :heavy_check_mark: Modo administrador;
 :heavy_check_mark: Apagar perguntas - Modo administrador;
